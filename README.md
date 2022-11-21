@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deeptanshu Bhaskar</h1>
+<h3 align="center"> Student and Casual Programmer from India. Exploring new tools and Learning new Languages </h3>
 
 - 🔭 I’m currently working on a Blog for a client of mine: [MA Physics Website](https://github.com/BadBryan44567/plump-classes-website)
 
