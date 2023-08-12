@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Deeptanshu Bhaskar</h1>
 <h3 align="center"> Student and Casual Programmer from India. On A Mission to Learn Every Language on Earth!</h3>
 
-- 🔭 I’m currently working on a Blog for a client of mine: [MA Physics Website](https://github.com/BadBryan44567/plump-classes-website)
+- 🔭 I’m currently working on a **Blog for a client of mine:** [MA Physics Website](https://github.com/BadBryan44567/plump-classes-website)
 
-- 🌱 I’m currently learning **Web Development Using Hugo and Static Site Generation in General**
+- 🌱 I’m currently learning **The .NET Framework using C# and its various applications:** [My Adventures with .NET](https://github.com/BadBryan44567/Adventures-With-DotNet)
 
 - 📫 How to reach me **goddangamew05@gmail.com**
 
